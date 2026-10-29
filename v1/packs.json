@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "en-gb-sonia.zip", "bytes": 73028706, "sha256": "a121bcf0a1d0ef876bdee315c03d85b2ac3bb5c2c3ed23cf4fdb38a84637902b"}
+  ]
+}
